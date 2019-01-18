@@ -7,8 +7,8 @@
 #endif
 #include <time.h>
 
-const char* ssid       = "Nhatrang Hitech";
-const char* password   = "nhtc2109";
+const char* ssid       = "tienhuyiot";
+const char* password   = "esp_fan!";
 
 const char* ntpServer1 = "pool.ntp.org";
 const char* ntpServer2 = "time.nist.gov";
